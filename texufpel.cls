@@ -118,7 +118,7 @@ Versão: \currversion^^J
 \RequirePackage{hyperref}
 \RequirePackage{changepage}
 \RequirePackage[T1]{fontenc}
-\RequirePackage[singlelinecheck=off,font=small,justification=justified,format=plain,labelsep=endash]{caption}
+\RequirePackage[singlelinecheck=off,font=small,justification=centering,format=plain,labelsep=endash]{caption}
 \setlength{\captionmargin}{20pt}
 
 \geometry{top=3cm,right=2cm,left=3cm,bottom=2cm}
